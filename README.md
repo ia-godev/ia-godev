@@ -1,6 +1,6 @@
 ### Salut 👋
 
- - 🔭 Je travaille sur le rpojet <a href="https://areaofficiel.github.io/" target="_blank">AreaOfficiel</a>
+ - 🔭 Je travaille sur le projet <a href="https://areaofficiel.github.io/" target="_blank">AreaOfficiel</a>
  - 🌱 Je suis entrain d'apprendre à utiliser Git
 
 <!--
