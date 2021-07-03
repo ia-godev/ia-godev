@@ -1,5 +1,8 @@
 ### Salut 👋
 
+ - 🔭 Je travaille sur le rpojet <a href="https://areaofficiel.github.io/">AreaOfficiel</a>
+ - 🌱 Je suis entrain d'apprendre à utiliser Git
+
 <!--
 **ia-godev/ia-godev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
