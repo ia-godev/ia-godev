@@ -1,5 +1,5 @@
 ﻿### Hi, my name is Iago 👋
-#### I'm a french developer
+#### I'm a french developer 🇫🇷
 
  - 🔭 I'm currently working on <a href="https://areaofficiel.github.io/" target="_blank">AreaOfficiel</a>
  - 🌱 I'm currently learning to use perfectly Git
