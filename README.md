@@ -1,7 +1,7 @@
-﻿### Salut 👋
+﻿### Hi, my name is Iago 👋
 
- - 🔭 Je travaille sur le projet <a href="https://areaofficiel.github.io/" target="_blank">AreaOfficiel</a>
- - 🌱 Je suis entrain d'apprendre à utiliser Git
+ - 🔭 I'm currently working on <a href="https://areaofficiel.github.io/" target="_blank">AreaOfficiel</a>
+ - 🌱 I'm currently learning to use perfectly Git
 
 <!--
 - 🔭 I’m currently working on ...
