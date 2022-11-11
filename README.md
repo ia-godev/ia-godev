@@ -1,8 +1,9 @@
 ﻿### Hi, my name is Iago 👋
+
 #### I'm a french developer 🇫🇷
 
- - 🔭 I'm currently working on all I want
- - 🌱 I'm currently learning to use perfectly Git
+- 🔭 I'm currently working on my own projects
+- 🌱 I'm currently learning dev web
 
 <!--
 - 🔭 I’m currently working on ...
